@@ -5,7 +5,8 @@
 
 ### __Description__ 
 * A mini Platformer Game made using Pygame.
-* \* Sprites credit to - [Craftix](https://craftpix.net/) \*
+* \* Sprites credit to - [Craftpix](https://craftpix.net/) \*
+* Fact \: i also produced the game music :3
 
 
 
