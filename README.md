@@ -11,7 +11,7 @@
 
 
 ## Download
-  - [Download - zip](https://drive.google.com/file/d/1_pW4mM1NNjokbT24Sw8QXtrNgDHi_V-3/view?usp=sharing)
+  - [Download - zip](https://drive.google.com/file/d/1_pW4mM1NNjokbT24Sw8QXtrNgDHi_V-3/view?usp=sharing) (and run .exe)
 
 
 # Built With ?
